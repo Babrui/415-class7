@@ -4,19 +4,15 @@ layout: "index.njk"
 hasjs: 1
 ---
 
-# this is my new site title
+# WHATS GOING ON?
 
-This is a page I made with eleventy, or something like that lol.
+Indulge in a symphony of flavors at our artisanal ice cream shop, where every scoop tells a delicious tale. From classic favorites to avant-garde creations, we churn happiness into every cone. Step into a world where creamy dreams come true – welcome to our scoop of paradise!
 
-# Features!
+# WHATS THERE?
 
-nothing
-gets hacked often
-runs slowly
+Our trio of timeless delights: Chocolate Ecstasy, Vanilla Bliss, and Strawberry Symphony! Dive into a world of rich, velvety chocolate, creamy vanilla bean, and luscious, sun-kissed strawberries. Each scoop is a celebration of pure indulgence, crafted with love and served with a smile. Satisfy your cravings and treat your taste buds to the ultimate ice cream experience at our shop today!
 
 # Update!
 
-something
-won't get hacked
-runs at the speed of light
+There will be more stores soon!!!
 
