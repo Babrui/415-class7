@@ -3,14 +3,14 @@ body{
 }
 ul {
      list-style-type: none;
-     margin:10;
-     padding: 10;
+     margin: 50px;;
+     padding: 50px;
      overflow: hidden;
      background-color: #333333;
    }
    
    li {
-     float:none;
+     float: left;
    }
    
    li a {
