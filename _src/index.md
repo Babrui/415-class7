@@ -10,13 +10,13 @@ This is a page I made with eleventy, or something like that lol.
 
 # Features!
 
-- nothing
-- gets hacked often
-- runs slowly
+nothing
+gets hacked often
+runs slowly
 
 # Update!
 
-- something
-- won't get hacked
-- runs at the speed of light
+something
+won't get hacked
+runs at the speed of light
 
