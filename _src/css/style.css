@@ -3,8 +3,8 @@ body{
 }
 ul {
      list-style-type: none;
-     margin: 50px;;
-     padding: 50px;
+     margin: 0px;;
+     padding: 0px;
      overflow: hidden;
      background-color: #333333;
    }
