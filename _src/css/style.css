@@ -11,14 +11,13 @@ ul {
    
    li {
      float: left;
-     text-align: center;
    }
    
    li a {
      display: block;
      color: white;
      text-align: left;
-     padding: 27px;
+     padding: 100px;
      text-decoration: none;
    }
    
