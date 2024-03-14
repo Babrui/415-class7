@@ -17,4 +17,4 @@ Our trio of timeless delights: Chocolate Ecstasy, Vanilla Bliss, and Strawberry 
 There will be more stores soon!!!
 
 
-<img src="../img/Truck.webp" alt="Truck">
+<img class="truck" src="../img/Truck.webp" alt="Truck">
