@@ -11,4 +11,4 @@ Meet Babrui, the heart and soul behind our sweet haven. With a warm smile and a 
 
 ## This is the Boss
 
-<img Babrui src="../img/Babrui.jpg" alt="Babrui">
+<ba src="../ba/Babrui.jpg" alt="Babrui">
