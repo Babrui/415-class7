@@ -7,7 +7,7 @@ ul {
      padding: 0px;
      overflow: hidden;
      background-color: #333333;
-   }
+}
    
 li {
   float: left;
@@ -18,17 +18,15 @@ li {
      color: white;
      text-align: left;
      padding: 27px;
-     text-decoration: none;
-   }
+     text-decoration: none; }
    
    li a:hover {
      background-color: #111111;
-   }
+}
    img {
     width: 5%;
-   }
-
-
+}
 .ba {
   width: 50%;
+  border-radius: 50%;
 }
