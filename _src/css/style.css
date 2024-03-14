@@ -2,7 +2,6 @@ body{
      background-color: wheat;
 }
 ul {
-     position: fixed;
      list-style-type: none;
      margin: 0px;;
      padding: 0px;
